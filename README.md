@@ -1,4 +1,4 @@
-# 💼 Data Science Salary Predictor
+Data Science Salary Predictor
 
 This web app predicts a data scientist's estimated yearly salary based on user inputs such as coding experience, machine learning experience, company size, ML adoption at the company, and personal ML/cloud computing spending.
 
@@ -19,6 +19,6 @@ The model was trained using data from a data science survey and built using:
 - `final_trained_model.pkl`: Trained regression model
 - `requirements.txt`: List of Python libraries needed
 
-Built with ❤️ using Streamlit.
+Built using Streamlit.
 
 ---
