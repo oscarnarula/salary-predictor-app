@@ -5,7 +5,7 @@ import pickle
 
 
 # --- Load the trained model from the specified path
-with open(r"C:\Users\Narula\Downloads\final_trained_model.pkl", "rb") as file:
+with open("final_trained_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 
